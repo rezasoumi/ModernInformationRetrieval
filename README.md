@@ -1,8 +1,8 @@
 # Information Retrieval Project
 
 ## Overview
-This project is made through the course of Modern Information Retrieval of Dr. Mahdieh Soleymani Baghshah. 
 This repository contains the implementation of an Information Retrieval project completed in three phases. The project focuses on various techniques for document classification, search and retrieval, clustering, and other advanced retrieval methods. Each phase is described below along with the implemented techniques and evaluation metrics.
+This project is made through the course of Modern Information Retrieval of Dr. Mahdieh Soleymani Baghshah. 
 
 ## Phase 1 & 2: Document Classification and Retrieval
 
